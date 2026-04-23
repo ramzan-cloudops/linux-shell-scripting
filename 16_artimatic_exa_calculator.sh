@@ -58,4 +58,6 @@ case $choice in
 		
 esac
 
+this is  my learning journey
+
 
